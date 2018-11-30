@@ -1,0 +1,2 @@
+#!/bin/sh
+exec mono /usr/local/nant-0.92/bin/NAnt.exe "$@"
